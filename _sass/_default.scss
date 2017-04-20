@@ -303,3 +303,31 @@ strong {
         font-size: 18px;
     }
 }
+
+/**
+ * Table
+ */
+table {
+    width: 100%;
+    max-width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    table-layout: fixed;
+}
+
+th,
+td {
+    padding: 0.5rem;
+    line-height: inherit;
+}
+
+th {
+    text-align: left;
+    vertical-align: bottom;
+    border-bottom: 2px solid $grey-color-light;
+}
+
+td {
+    vertical-align: top;
+    border-bottom: 1px solid $grey-color-light;
+}
