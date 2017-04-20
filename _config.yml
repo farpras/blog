@@ -12,7 +12,7 @@ twitter_username:   farpras # Your Twitter username here
 github_username:    farpras # Your GitHub username here
 
 # Site Settings
-baseurl:            "http://farpras.github.io/blog" # Base URL must end WITHOUT a slash, default: ""
+baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /notes/:title # Post permalink
 timezone:           Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to false to disable
