@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
 permalink: /about/
 ---
 
-Hello world!
+[Jekyll Writer](http://www.jekyllwriter.com) is a Jekyll blog site writer. You may download Jekyll Writer for Windows, OS X and Linux from our [official website](http://www.jekyllwriter.com).

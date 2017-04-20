@@ -1,13 +1,11 @@
 ---
 layout: post
 title:  "EQ Tips Cheat Sheet"
-subtitle: "Tips for equalization. By frequency, by instrument with a glossary."
 date:   2017-04-18 05:48:34 +0700
-categories: [tips]
 ---
 Tips for equalization. By frequency, by instrument with a glossary.
 This article will still get updated. (Last update: `Tuesday, April 18th 2017`)
-<table width="100%">
+<table>
     <thead>
         <tr>
             <th>EQ Freq Breakdown</th>
