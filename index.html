@@ -1,21 +1,18 @@
 ---
-layout: default
+layout: page
+title: Blog
+subtitle: Hitchhiker's guid to web development
+sitemap:
+  priority: 0.9
 ---
-<div class="home">
-	<section>
-		<h2 class="smallcap">about</h2>
-		<p>Hello, my name is <a href="http://farpras.xyz">farpras</a>. I'm a music producer/composer/arranger. I mainly making instrumental cover for my favorite anime. I also make EDM music, such as Progressive House, Future Bass, and Electro genres.</p>
-	</section>
-	<section>
-		<h2 class="smallcap">posts</h2>
-		<ul class="post-list">
-			{% for post in site.posts limit:5 %}
-			<li>
-				<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
-				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-			</li>
-			{% endfor %}
-		</ul>
-		<p><a href="{{ "/archives/" | prepend: site.baseurl }}">view more...</a></p>
-	</section>
-</div>
+
+<ul class="list-posts">
+    {% for post in site.posts %}
+        <li class="post-teaser">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <span class="post-teaser__title">{{ post.title }}</span>
+                <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
+            </a>
+        </li>
+    {% endfor %}
+</ul>
