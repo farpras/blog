@@ -4,7 +4,7 @@ updated:   2017-04-18 05:48
 ---
 
 Tips for equalization. By frequency, by instrument with a glossary.
-This article will still get updated. (Last update: `Tuesday, April 20th 2017`)
+This article will still get updated. (Last update: `Thursday, April 20th 2017`)
 
 ### EQ Frequency Breakdown
 
