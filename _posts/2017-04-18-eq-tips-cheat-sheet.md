@@ -56,3 +56,5 @@ This article will still get updated. (Last update: `Tuesday, April 20th 2017`)
 - **Q** / describes the shape of the EQ curve (higher Q = narrower range, lower Q = wider range)
 - **Sibilance** / refers to the hissing "s","sh","z", or "zh", sound of the human voice
 - **Warmth** / sound where the bass and low mid frequencies have depth and where the high frequencies are smooth sounding opposed to aggressive or fatiguing
+
+**Source:** <a href="https://www.cheatography.com/fredv/cheat-sheets/eq-tips/">Cheatography</a>
