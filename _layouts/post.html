@@ -17,7 +17,7 @@ comments: true
   				<a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
   				{% unless forloop.last %}&nbsp;{% endunless %}
   			{% endfor %}
-        {% if page.comments %} &middot; <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread">...</a>
+        {% if page.comments %} &middot; <a href="#disqus_thread">...</a>
         {% endif %}
   		</time>
 	</div>
@@ -27,11 +27,8 @@ comments: true
 	{{ content }}
 
   <div class="divider"></div>
-
 <!-- ############ Disqus Comments ############ -->
-
 {% include disqus.html %}
-
 <!-- ######################################### -->
 
 </article>
