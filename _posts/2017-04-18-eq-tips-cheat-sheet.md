@@ -2,6 +2,7 @@
 title:  EQ Tips Cheat Sheet
 updated:   2017-04-18 05:48
 categories: Tips
+comments: true
 ---
 
 Tips for equalization. By frequency, by instrument with a glossary.

@@ -2,6 +2,7 @@
 title:  Caleb Hyles - Just Friends (Star vs the Force of Evil)
 updated:   2017-04-22 08:35
 categories: Projects
+comments: true
 ---
 
 This is yet another commission project from **Caleb Hyles**. This time from the soundtrack of **SvtFoE**. Go watch it!
