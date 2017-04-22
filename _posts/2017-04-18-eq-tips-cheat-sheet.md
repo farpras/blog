@@ -26,7 +26,7 @@ This article will still get updated. (Last update: `Thursday, April 20th 2017`)
 - **2-4kHz** / In this area you can emphasize the "smack" of the kick's beater.
 - **2.5kHz** / Good for adding to a dirty guitar for some real sizzle. Boost this area for bass guitar if using the pop/slap style.
 - **2.5-5kHz** / Boost for clarity with an acoustic guitar and piano.
-- **3-7kHz** / This is the area where vocal sibilance resides. Boost slightly to add sense of "­vol­ume­" It also adds a harshness that is partic­ularly fatiguing. Add warmth without loss of clarity by attenu­ating this region a bit.
+- **3-7kHz** / This is the area where vocal sibilance resides. Boost slightly to add sense of "volume" It also adds a harshness that is partic­ularly fatiguing. Add warmth without loss of clarity by attenu­ating this region a bit.
 - **4kHz** / Boost vocal here for presence.
 - **4-9kHz** / Bright­ness, presence, defini­tion, sibilance, high frequency distortion.
 - **4.5kHz** / Extremely tiring to the ears, add a slight notch here.
