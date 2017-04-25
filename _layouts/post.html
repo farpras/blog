@@ -18,11 +18,7 @@ comments: true
 				{% unless forloop.last %}&nbsp;{% endunless %}
 			{% endfor %}
       {% if page.comments %} &middot; <a href="#disqus_thread">...</a>
-      {% endif %}<br/>
-      Posted: 
-      <script>
-        moment("{{ page.date | date: '%Y%m%d' }}", "YYYYMMDD").fromNow();
-      </script>
+      {% endif %}
   	</time>
 	</div>
 
