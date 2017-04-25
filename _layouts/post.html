@@ -21,7 +21,7 @@ comments: true
       {% endif %}<br/>
       Posted: 
       <script>
-        moment().format('{{ page.date | date: "%Y%m%d" }}');
+        moment("{{ page.date | date: '%Y%m%d' }}", "YYYYMMDD").fromNow();
       </script>
   	</time>
 	</div>
