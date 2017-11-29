@@ -1,7 +1,9 @@
 ---
+layout: post
 title:  EQ Tips Cheat Sheet
-updated:   2017-04-18 05:48
+date:   2017-04-18 05:48
 categories: Tips
+description: EQ tips by frequency & instrument with a glosary
 comments: true
 ---
 

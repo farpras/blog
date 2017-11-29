@@ -1,22 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
-	<head>
-		{% include head.html %}
-	</head>
+  {% include head.html %}
 
-	<body>
+  <body>
 
-		{% include header.html %}
+    {% include header.html %}
 
-		<main>
-			{{ content | replace: '&#8617;', '&#8617;&#xfe0e;' }}
-		</main>
 
-		{% include footer.html %}
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
 
-		<script id="dsq-count-scr" src="//farpras.disqus.com/count.js" async></script>
+    {% include footer.html %}
 
-	</body>
+  </body>
 
 </html>

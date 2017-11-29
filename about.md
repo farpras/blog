@@ -1,19 +1,29 @@
 ---
 layout: page
-title: About
+title: about
+permalink: /about/
 ---
 
-Hello, my name is Farpras. Not a real name, cause why should I? :D
-This is a blog based on Jekyll and is open sourced. You can find the source <a href="https://github.com/farpras/blog">here</a>. I will post anything about my stuffs here. Such as music, projects, tips, tutorial, and others.
+<img class="col one right" src="/img/prof_pic.jpg">
 
-My hobby is making music, and it's become my passion since I graduated from high school. Mostly, I'm making instrumental cover and remix of Anime soundtracks on my <a href="http://www.youtube.com/farpras">YouTube channel</a>. Beside of music producing, I also really like programming. Currently I'm learning some programming language such as JavaScript, PHP, Python, C#, and Java. Ah, right... HTML too.
+<br/>
+Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
 
-You can also find me here:
-- <a href="http://twitter.com/farpras">Twitter</a>
-- <a href="http://youtube.com/farpras">YouTube</a>
-- <a href="http://instagram.com/farpras">Instagram</a>
+Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
 
-My favorite quote:
-> "You can love your country without having to love your government!" - Anonymous
 
-Thanks for visiting! [^ww^]
+<br/>
+<hr/>
+<br/>
+<span class="contacticon center">
+	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
+	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+</span>
+
+<div class="col three caption">
+	You can even add a little note about which of these is the best way to reach you.
+</div>
+
