@@ -10,7 +10,7 @@ comments: true
 Tips for equalization. By frequency, by instrument with a glossary.
 This article will still get updated. (Last update: `Thursday, April 20th 2017`)
 <hr>
-<br/>
+
 #### EQ Frequency Breakdown
 <ul>
 	<li><b>30Hz</b> / Virtually undetectable, you can safely cut these frequencies.</li>
@@ -41,7 +41,6 @@ This article will still get updated. (Last update: `Thursday, April 20th 2017`)
 	<li><b>10kHz</b> / Boost to add "­air­" and clarity to acoustic instru­ments.</li>
 </ul>
 <hr>
-<br/>
 <ul>
 	<li><b>Vocals</b> / presence (5 kHz), sibilance (7.5 ‐ 10 kHz), boom (200 ‐ 240 kHz), fullness (120 Hz)</li>
 	<li><b>Electric Guitar</b> / fullness (240 Hz), bite (2.5 kHz), air / sizzle (8 kHz)</li>
@@ -52,8 +51,9 @@ This article will still get updated. (Last update: `Thursday, April 20th 2017`)
 	<li><b>Toms<b> / attack (5 kHz), fullness (120 ‐ 240 Hz)</li>
 	<li><b>Acoustic Guitar</b> / harshness / bite (2 kHz), boom (120 ‐ 200 Hz), cut (7 ‐ 10 kHz)</li>
 </ul>
-<hr>
 <br/>
+<hr>
+
 #### EQ Glosary
 <ul>
 	<li><b>Attenuation</b> / the reduction of a signal level</li>
