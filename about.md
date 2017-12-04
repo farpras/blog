@@ -1,29 +1,46 @@
 ---
+title: About
 layout: page
-title: about
-permalink: /about/
 ---
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+<h2>Skills</h2>
 
+<ul class="skill-list">
+	<li>HTML - Jade - Haml - Erb</li>
+	<li>Responsive (Mobile First)</li>
+	<li>CSS (Stylus, Sass, Less)</li>
+	<li>Css Frameworks (Bootstrap, Foundation)</li>
+	<li>Javascript (Design Patterns, Testes)</li>
+	<li>NodeJS</li>
+	<li>AngularJS - ReactJS</li>
+	<li>Grunt - Gulp - Yeoman</li>
+	<li>Git</li>
+	<li>PHP</li>
+	<li>Python</li>
+	<li>MySQL - MongoDB</li>
+	<li>Scrum and Kanban</li>
+	<li>TDD e Continuous Integration</li>
+</ul>
 
-<br/>
-<hr/>
-<br/>
-<span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
-</span>
+<h2>Projects</h2>
 
-<div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
-</div>
-
+<ul>
+	<li><a href="https://github.com/">Lorem Lorem</a></li>
+	<li><a href="https://github.com/">Ipsum Dolor</a></li>
+	<li><a href="https://github.com/">Dolor Lorem</a></li>
+</ul>
